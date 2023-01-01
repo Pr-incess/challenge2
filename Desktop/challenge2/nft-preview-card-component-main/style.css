@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+        background-color: hsl(217, 54%, 11%);
+        font-size: 18px;
+        display: flex;
+        align-items: center;
+    }
+
+.thecontainer{
+    max-width: 380px;
+    border-radius: 15px;
+    padding: 15px;
+    margin: 0 auto;
+}
+
+.Equi{
+    color: hsl(0, 0%, 100%);
+}
+
+.our{
+    color: hsl(215, 51%, 70%);
+}
+
+.startof{
+color: hsl(215, 51%, 70%);
+}
+
+.thatcard{
+    background-color:  hsl(216, 50%, 16%);
+    border-radius: 10px;
+    padding: 15px;
+    margin-top: 25px
+    
+}
+
+.words{
+text-align: left;
+}
+
+
+.thecard img{
+    border-radius: 12px;
+    width: 100%;
+    
+}
+
+.figure{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border: 3px solid #fff;
+}
+
+
+.myname{
+    color:hsl(0, 0%, 100%);
+}
+.ETH{
+    color: hsl(178, 100%, 50%);
+    text-align: left;
+
+
+    
+}
+.Days{
+    text-align: right;
+    color: hsl(215, 51%, 70%);
+}
+
+.text h1{
+    color:  hsl(0, 0%, 100%);
+}
+
+.text {
+    padding: 22px 10px;
+}
